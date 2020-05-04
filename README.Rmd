@@ -1,0 +1,4 @@
+# RR project in RStudio
+RR workshop Rstudio + Git repository
+
+My first commit to GitHub with R
