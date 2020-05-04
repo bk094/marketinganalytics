@@ -2,3 +2,6 @@
 RR workshop Rstudio + Git repository
 
 My first commit to GitHub with R
+
+
+Test dies ist ein Test
